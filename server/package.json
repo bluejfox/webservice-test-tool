@@ -1,0 +1,12 @@
+{
+  "name": "WebServiceTestTool",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-session": "^1.15.3",
+    "http-proxy": "^1.16.2",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {}
+}
